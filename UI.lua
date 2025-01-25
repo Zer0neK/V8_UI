@@ -1,4 +1,4 @@
-local a a = {https://codebeautify.org/lua-beautifier#
+local a a = {
     cache = {},
     load = function(b) if not a.cache[b] then a.cache[b] = {
         c = a[b]
